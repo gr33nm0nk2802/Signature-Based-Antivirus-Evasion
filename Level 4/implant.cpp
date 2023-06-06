@@ -1,5 +1,5 @@
 /// Compile With:
-/// cl.exe /nologo /Ox /MT /W0 /GS- /DNDEBUG /Tcimplant.cpp /I "headers" /link /OUT:executables\levelX.exe /SUBSYSTEM:CONSOLE /MACHINE:x64 
+/// cl.exe /nologo /Ox /MT /W0 /GS- /DNDEBUG /Tcimplant.cpp /I "headers" /link /OUT:level4.exe /SUBSYSTEM:CONSOLE /MACHINE:x64 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
