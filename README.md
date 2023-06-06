@@ -10,3 +10,6 @@ AES encryption on the shellcode
 
 Level 3:
 Function call obfuscation
+
+Level 4: 
+Sandbox Evasion
